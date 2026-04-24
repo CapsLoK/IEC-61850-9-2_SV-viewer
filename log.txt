@@ -1,6 +1,0 @@
-[root@qxxnx7mnlz6dv 260421_9-2_SV-viewer]# python3.9 sv_scout.py 
-/usr/lib/python3/site-packages/scapy/layers/ipsec.py:471: CryptographyDeprecationWarning: Blowfish has been deprecated
-  cipher=algorithms.Blowfish,
-/usr/lib/python3/site-packages/scapy/layers/ipsec.py:485: CryptographyDeprecationWarning: CAST5 has been deprecated
-  cipher=algorithms.CAST5,
-QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/.private/root/runtime-root'
